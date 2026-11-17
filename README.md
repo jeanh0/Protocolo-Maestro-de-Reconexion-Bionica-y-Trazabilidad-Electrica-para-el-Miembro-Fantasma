@@ -27,3 +27,12 @@
 ## 5. Hoja de Ruta y Validación Clínica
 
 * **Fases 1 a 4 (Meses 1 a 60+):** Desde la simulación virtual y prototipado en banco con aislamiento galvánico hasta ensayos clínicos controlados bajo la norma **ISO 14155** y liberación global regulatoria (FDA/EMA).
+ 
+Nota Metodológica y Aviso de Uso (Disclaimer)
+Este repositorio y su documentación técnica representan un ejercicio analítico e ingenieril de carácter estrictamente conceptual y metodológico, enfocado en la neuroingeniería, el modelado en redes neuronales de espigas (SNN) y la trazabilidad regulatoria de dispositivos médicos de Clase III.
+
+Propósito del Repositorio: El único fin de esta aportación es mostrar un enfoque de diseño arquitectónico, cumplimiento normativo (ISO 13485, IEC 60601, IEC 62304, ISO 14971) y modelado de sistemas complejos como parte de un portafolio de ingeniería clínica y desarrollo de software médico (SaMD).
+
+Alcance No Clínico: Este material no constituye un dispositivo médico fabricado, un protocolo clínico activo, un tratamiento validado en seres humanos, ni una recomendación médica profesional. No ha sido aprobado por agencias regulatorias (como FDA o EMA) para su uso directo en pacientes.
+
+Acreditación de Colaboración y Desarrollo: Si investigadores, ingenieros biomédicos, desarrolladores de software o personal de salud encuentran valor en este marco de dos carriles (simulación de código abierto y hardware regulado) para inspirar o debatir nuevas líneas de investigación en neurorehabilitación, son libres de revisarlo y analizarlo bajo su propio criterio académico y técnico.
