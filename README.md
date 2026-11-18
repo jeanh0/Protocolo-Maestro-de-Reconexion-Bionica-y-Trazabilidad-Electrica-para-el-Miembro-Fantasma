@@ -1,14 +1,3 @@
-
- 
-titulo: protocolo-miembro-fantasma-bionico
-
-Acerca de
-
-Protocolo maestro e implementación integrada para el tratamiento del miembro fantasma mediante trazabilidad eléctrica, simulación SNN, cumplimiento regulatorio ISO/IEC y reconexión biónica en circuito cerrado.
-
-
-docs: consolidación del protocolo miembro fantasma-biónico
-
 # Protocolo Maestro e Implementación Integrada: Tratamiento del Miembro Fantasma por Trazabilidad Eléctrica y Reconexión Biónica
 
 > **Enfoque:** Neuroingeniería, Dispositivos Médicos de Clase III, Redes Neuronales de Espigas (SNN) e Ingeniería Clínica.  
