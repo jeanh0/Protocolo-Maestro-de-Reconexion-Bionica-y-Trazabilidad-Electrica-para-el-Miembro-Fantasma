@@ -3,8 +3,6 @@
 > **Enfoque:** Neuroingeniería, Dispositivos Médicos de Clase III, Redes Neuronales de Espigas (SNN) e Ingeniería Clínica.  
 > **Propósito:** Abordar el dolor de miembro fantasma como una falla de trazabilidad en la red neuroeléctrica, estableciendo un protocolo de dos carriles (software abierto y hardware regulado) para la validación preclínica y reconexión biónica en circuito cerrado.
 
-markdown
-
 ## 1. Arquitectura de Dos Carriles
 
 - **Carril Abierto (Software y Simulación):** Modelado matemático, diagramas de flujo y Gemelos Digitales de Redes Neuronales de Espigas (SNN) bajo control estricto de versiones y flujos CI/CD inmutables (Izhikevich, 2006).
